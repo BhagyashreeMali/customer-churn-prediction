@@ -1,17 +1,18 @@
-# Python cache
+# Python
 __pycache__/
 *.pyc
+*.pyo
 
-# Virtual environments
-.env
+# Virtual Environments
 .venv/
+env/
 venv/
-
-# Model files
-*.pkl
 
 # OS files
 .DS_Store
+
+# Model files
+*.pkl
 
 # Jupyter
 .ipynb_checkpoints/
