@@ -1,4 +1,4 @@
-# 📉 Customer Churn Prediction
+ # 📉 Customer Churn Prediction
 
 This project predicts customer churn for a subscription-based business using machine learning techniques.
 
