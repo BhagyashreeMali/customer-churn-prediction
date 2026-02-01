@@ -14,5 +14,5 @@ venv/
 # Model files
 *.pkl
 
-# Jupyter
+# Jupyter 
 .ipynb_checkpoints/
